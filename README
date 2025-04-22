@@ -1,0 +1,11 @@
+O objetivo do meu trabalho foi criar um site para uma loja fictícia. Para desenvolver o projeto, utilizei HTML, CSS, JavaScript e Bootstrap, garantindo um visual moderno e responsivo.
+
+No meu projeto, usei:
+
+- HTML para estruturar o conteúdo da página, incluindo seções como "sobre a loja", e "produtos".
+- CSS para estilizar o layout com foco em um design limpo, responsivo e que combina com o estilo urbano da loja. Também utilizei efeitos visuais nos botões e produtos.
+- JavaScript para adicionar interatividade, como a validação do formulário de contato e o controle de visibilidade do áudio quando o carrossel está na tela.
+- Bootstrap para agilizar o desenvolvimento do layout, usando componentes prontos como o carrossel, grid responsivo e botões estilizado.
+- Design responsivo que se adapta bem a dispositivos móveis, tablets e desktops.
+
+Esse trabalho foi uma oportunidade de aplicar diferentes tecnologias de forma integrada, criando uma experiência de usuário agradável e funcional, com foco na estética, responsividade e interatividade.
